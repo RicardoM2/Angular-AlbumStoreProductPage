@@ -4,11 +4,12 @@
 }
 
 ul {
-  list-style: none;  
+    list-style-type: none;  
 }
 
 li {
     display: block;
+    line-height: 30px;
 }
 
 button {
